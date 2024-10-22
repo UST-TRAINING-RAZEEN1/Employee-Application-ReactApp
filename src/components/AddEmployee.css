@@ -1,0 +1,39 @@
+/* src/components/AddEmployee.css */
+
+.add-employee-container {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color:#4A628A;
+  }
+  
+  .add-employee-container h2 {
+    text-align: center;
+    margin-bottom: 20px;
+    color: aliceblue;
+  }
+  
+  .add-employee-container input {
+    width: 90%;
+    padding: 10px;
+    margin: 10px 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .add-employee-container button {
+    width: 95%;
+    align-items: center;
+    padding: 10px;
+    margin: 10px 10px;
+    background-color: #B9E5E8;
+    color: #4A628A;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  
+  
